@@ -1,0 +1,7 @@
+.item{
+    color: white;
+}
+
+.button_item:hover{
+    background-color: #343541;
+}
